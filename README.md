@@ -10,7 +10,7 @@ Backend : php or javascript (NodeJs), Also you can use any frameworks like larav
 
 Frontend: Language independent
 
-## - You need to clone this repo and run on locally to experince the project.
+## You need to clone this repo and run locally to experience the project.
 
 - To run the backend go to `backEnd` folder and type `npm install`. All the npm package will be installed. And then type `npm run start-dev`. This will start or open your local server on 5000 port.
 
